@@ -1,6 +1,5 @@
-# Machine-Learning-L1
-
-Mentorship Repository for Machine Learning Type = Level 1
+# Machine-Learning-L2
+Mentorship Repository for Machine Learning Type = Level 2
 
 ## Repository Navigation Guide
 * Mentor needs to fork this repository
@@ -26,27 +25,32 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
 or the mentee's preferences.
 
-- [ ] Basic Requirements and Tools
-    - [ ] Git/Github
-    - [ ] Python/IPython
-    - [ ] Numpy
-    - [ ] Pandas
-    - [ ] MySql
-    - [ ] File I/O
-    - [ ] Linux
+- [ ] Python Primer
+    - [ ] General Overview 
+    - [ ] Variables and Data Types
+    - [ ] Data Structures and Control and Flow
+    - [ ] String Operations and List Comprehensions   
+    - [ ] Functions
+    - [ ] Object Orientes Programming
 
-- [ ] Mathematics Brush-up
-    - [ ] Linear Algebra Primer
-    - [ ] Matrix Operations
-    - [ ] Basics of Probability and Statistics
-    - [ ] Basic Terminology
+
+- [ ] Numpy Primer
+    - [ ] General Overview
+    - [ ] Introduction to Numpy Arrays  
+    - [ ] Operations on Numpy Arrays
+    - [ ] Manipulation of Numpy Arrays
+    - [ ] File I/O using Numpy
     
-- [ ] Diving into Code
-    - [ ] Linear Regression
-    - [ ] Logistic Regression
-    - [ ] Clustering Algorithms
-    - [ ] Regression Trees
-    - [ ] Ensemble Models
+- [ ] Pandas Primer
+    - [ ] General Overview
+    - [ ] Pandas Data Structures
+    - [ ] Data Selection and Inspection
+    - [ ] Data Reshaping and Cleaning
+    - [ ] Data Grouping
+    - [ ] Join/Combine Datasets
+    - [ ] Data Statistics
+    - [ ] Data Plotting
+    - [ ] File I/O using Pandas
     
 - [ ] Python Libraries
     - [ ] SciPy
