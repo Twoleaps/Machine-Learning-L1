@@ -25,6 +25,23 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
 or the mentee's preferences.
 
+## The Project
+> House Price Prediction
+
+### Algorithms
+* Linear Model
+* Support Vector Machines
+* Random Forest
+
+### Requirements:
+
+| Algorithm | Requirements |
+| --------- | ------------ |
+|  Linear Model         | Python, Numpy, Pandas, sklearn           |
+|  Support Vector Machines         | Python, Numpy, Pandas, sklearn              |
+|  Random Forest         | Python, Numpy, Pandas, sklearn              |
+
+
 - [ ] Python Primer
     - [ ] General Overview 
     - [ ] Variables and Data Types
@@ -32,7 +49,8 @@ or the mentee's preferences.
     - [ ] String Operations and List Comprehensions   
     - [ ] Functions
     - [ ] Object Orientes Programming
-
+    
+** COMPLETION OF FIRST MILESTONE **
 
 - [ ] Numpy Primer
     - [ ] General Overview
@@ -41,6 +59,8 @@ or the mentee's preferences.
     - [ ] Manipulation of Numpy Arrays
     - [ ] File I/O using Numpy
     
+** COMPLETION OF SECOND MILESTONE **    
+
 - [ ] Pandas Primer
     - [ ] General Overview
     - [ ] Pandas Data Structures
@@ -52,13 +72,24 @@ or the mentee's preferences.
     - [ ] Data Plotting
     - [ ] File I/O using Pandas
     
+** COMPLETION OF THIRD MILESTONE **    
+    
 - [ ] Python Libraries
     - [ ] SciPy
     - [ ] Matplotlib
     - [ ] Scikit Learn
     - [ ] NLTK
     
+** COMPLETION OF FOURTH MILESTONE **
     
+- [ ] Final Project
+    - [ ] Implementaion using Linear Model
+    - [ ] Implementation using SVM
+    - [ ] Implementation using Random Forest
+    
+ ** FINAL MILESTONE **
+  
+  
 ## Progress Tracking
 
 Track weekly progress in this section according to above mentioned goals.
