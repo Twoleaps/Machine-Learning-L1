@@ -42,7 +42,7 @@ or the mentee's preferences.
 |  Random Forest         | Python, Numpy, Pandas, sklearn              |
 
 
-- [ ] Python Primer
+- [ ] Python Primer     
     - [ ] General Overview 
     - [ ] Variables and Data Types
     - [ ] Data Structures and Control and Flow
@@ -50,7 +50,7 @@ or the mentee's preferences.
     - [ ] Functions
     - [ ] Object Orientes Programming
     
-:raised_hands: COMPLETION OF FIRST MILESTONE  :raised_hands:
+:raised_hands:   COMPLETION OF FIRST MILESTONE    :raised_hands:
 
 - [ ] Numpy Primer
     - [ ] General Overview
@@ -59,7 +59,7 @@ or the mentee's preferences.
     - [ ] Manipulation of Numpy Arrays
     - [ ] File I/O using Numpy
     
-:raised_hands: COMPLETION OF SECOND MILESTONE :raised_hands:
+:raised_hands:   COMPLETION OF SECOND MILESTONE   :raised_hands:
 
 - [ ] Pandas Primer
     - [ ] General Overview
@@ -72,7 +72,7 @@ or the mentee's preferences.
     - [ ] Data Plotting
     - [ ] File I/O using Pandas
     
-:raised_hands: COMPLETION OF THIRD MILESTONE :raised_hands:    
+:raised_hands:   COMPLETION OF THIRD MILESTONE   :raised_hands:    
     
 - [ ] Python Libraries
     - [ ] SciPy
@@ -80,14 +80,14 @@ or the mentee's preferences.
     - [ ] Scikit Learn
     - [ ] NLTK
     
-:raised_hands: COMPLETION OF FOURTH MILESTONE :raised_hands:
+:raised_hands:   COMPLETION OF FOURTH MILESTONE   :raised_hands:
     
 - [ ] Final Project
     - [ ] Implementaion using Linear Model
     - [ ] Implementation using SVM
     - [ ] Implementation using Random Forest
     
-:crown: FINAL MILESTONE :crown:
+:crown:   FINAL MILESTONE   :crown:
   
   
 ## Progress Tracking
@@ -98,3 +98,5 @@ Track weekly progress in this section according to above mentioned goals.
     - [ ] Task 1
     - [ ] Task 2
     - [ ] Task 3
+    - [ ] Task 4
+    - [ ] Task 5
