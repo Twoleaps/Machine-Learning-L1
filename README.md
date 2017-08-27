@@ -50,7 +50,7 @@ or the mentee's preferences.
     - [ ] Functions
     - [ ] Object Orientes Programming
     
-** COMPLETION OF FIRST MILESTONE **
+:raised_hands: ** COMPLETION OF FIRST MILESTONE **  :raised_hands:
 
 - [ ] Numpy Primer
     - [ ] General Overview
@@ -59,7 +59,7 @@ or the mentee's preferences.
     - [ ] Manipulation of Numpy Arrays
     - [ ] File I/O using Numpy
     
-** COMPLETION OF SECOND MILESTONE **    
+:raised_hands: ** COMPLETION OF SECOND MILESTONE ** :raised_hands:
 
 - [ ] Pandas Primer
     - [ ] General Overview
@@ -72,7 +72,7 @@ or the mentee's preferences.
     - [ ] Data Plotting
     - [ ] File I/O using Pandas
     
-** COMPLETION OF THIRD MILESTONE **    
+:raised_hands: ** COMPLETION OF THIRD MILESTONE ** :raised_hands:    
     
 - [ ] Python Libraries
     - [ ] SciPy
@@ -80,14 +80,14 @@ or the mentee's preferences.
     - [ ] Scikit Learn
     - [ ] NLTK
     
-** COMPLETION OF FOURTH MILESTONE **
+:raised_hands: ** COMPLETION OF FOURTH MILESTONE ** :raised_hands:
     
 - [ ] Final Project
     - [ ] Implementaion using Linear Model
     - [ ] Implementation using SVM
     - [ ] Implementation using Random Forest
     
- ** FINAL MILESTONE **
+:crown: ** FINAL MILESTONE ** :crown:
   
   
 ## Progress Tracking
