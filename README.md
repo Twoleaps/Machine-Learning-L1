@@ -25,70 +25,48 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
 or the mentee's preferences.
 
-## The Project
-> House Price Prediction
-
-### Algorithms
-* Linear Model
-* Support Vector Machines
-* Random Forest
-
-### Requirements:
-
-| Algorithm | Requirements |
-| --------- | ------------ |
-|  Linear Model         | Python, Numpy, Pandas, sklearn           |
-|  Support Vector Machines         | Python, Numpy, Pandas, sklearn              |
-|  Random Forest         | Python, Numpy, Pandas, sklearn              |
+## Main Goal
+> Implementing Penalized Linear Models to Predict Wine Taste
 
 
-- [ ] Python Primer     
-    - [ ] General Overview 
-    - [ ] Variables and Data Types
-    - [ ] Data Structures and Control and Flow
-    - [ ] String Operations and List Comprehensions   
-    - [ ] Functions
-    - [ ] Object Orientes Programming
-    
-:raised_hands:   COMPLETION OF FIRST MILESTONE    :raised_hands:
 
-- [ ] Numpy Primer
-    - [ ] General Overview
-    - [ ] Introduction to Numpy Arrays  
-    - [ ] Operations on Numpy Arrays
-    - [ ] Manipulation of Numpy Arrays
-    - [ ] File I/O using Numpy
-    
-:raised_hands:   COMPLETION OF SECOND MILESTONE   :raised_hands:
+### Introducing the project with all of its essential elements 
+- [ ] Introduction     
+    - [ ] Essentials of Prediction
+    - [ ] Understading Problem using Data
+    - [ ] What is Penalized Linear Models?
+    - [ ] Why use Penalized Linear Models?
 
-- [ ] Pandas Primer
-    - [ ] General Overview
-    - [ ] Pandas Data Structures
-    - [ ] Data Selection and Inspection
-    - [ ] Data Reshaping and Cleaning
-    - [ ] Data Grouping
-    - [ ] Join/Combine Datasets
-    - [ ] Data Statistics
-    - [ ] Data Plotting
-    - [ ] File I/O using Pandas
+
+### This module enables you to load and process data of different formats using Python and its libraries
+- [ ] Basics of Data I/O and Processing 
+    - [ ] General Overview of Python
+    - [ ] Reading and Writing Text Files in Python
+    - [ ] Working with Delimited Formats and MS Excel Files
+    - [ ] Working with JSON Data
     
-:raised_hands:   COMPLETION OF THIRD MILESTONE   :raised_hands:    
     
-- [ ] Python Libraries
-    - [ ] SciPy
-    - [ ] Matplotlib
-    - [ ] Scikit Learn
-    - [ ] NLTK
+### This module walks you throuh data wrangling and aggregation which enables you to make your data set usable for algorithmic implementation
+- [ ] Data Wrangling and Data Aggregation
+    - [ ] Combining Data Sets
+    - [ ] Reshaping Data Sets
+    - [ ] Transforming Data Sets
+    - [ ] String Related Opration on Data Sets
+    - [ ] Data Aggregation
+    - [ ] Group-wise Operatons on Data Sets
+       
+### This module discusses data plotting and visualisation, a very important concept in data processing and analysis.
+- [ ] Data Visualisation
+    - [ ] Introduction to Matplotlib Library's API (Python's Plotting Library)
+    - [ ] Making Plots and Figures using Matplotlib
+    - [ ] Using Visualisatoin to draw inference
     
-:raised_hands:   COMPLETION OF FOURTH MILESTONE   :raised_hands:
-    
-- [ ] Final Project
-    - [ ] Implementaion using Linear Model
-    - [ ] Implementation using SVM
-    - [ ] Implementation using Random Forest
-    
-:crown:   FINAL MILESTONE   :crown:
-  
+### This is the final project where above mentioned modules will be used to make the predictive model
+- [ ] Making the Predictive Model for Wine Taste Prediction
+    - [ ] Data Loading and Wrangling
+    - [ ] Data Cleaning and Processing
+    - [ ] Data Visualization
+    - [ ] Final Algorithmic Implementation
   
 ## Progress Tracking
 
