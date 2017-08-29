@@ -46,7 +46,7 @@ or the mentee's preferences.
     - [ ] Working with JSON Data
     
     
-### This module walks you throuh data wrangling and aggregation which enables you to make your data set usable for algorithmic implementation
+### This module walks you through data wrangling and aggregation which enables you to make your data set usable for algorithmic implementation
 - [ ] Data Wrangling and Data Aggregation
     - [ ] Combining Data Sets
     - [ ] Reshaping Data Sets
