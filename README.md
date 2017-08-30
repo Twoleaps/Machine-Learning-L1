@@ -62,7 +62,7 @@ or the mentee's preferences.
 - [ ] Data Visualisation
     - [ ] Introduction to Matplotlib Library's API (Python's Plotting Library)
     - [ ] Making Plots and Figures using Matplotlib
-    - [ ] Using Visualisatoin to draw inference
+    - [ ] Using Visualisation to draw inference
     
 ### Implementation of mini project
 - [ ] Making the Predictive Model for Wine Taste Prediction
