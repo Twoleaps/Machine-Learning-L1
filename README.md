@@ -27,7 +27,7 @@ The objectives of the mentorship should be listed down here. They can be customi
 or the mentee's preferences.
 
 ## Micro project
-> Implementing Penalized Linear Models to Predict Wine Taste
+> Implementing Penalized Linear Models to Predict Wine Cost
 
 **Problem statement:** Mr Dough is the owner of a wine shop and wants to smartly manage his inventory by allocating the right amount of funds.  To do so he needs to know prices of wines in future. As Mr Dough doesn't know how to solve this problem, instead he hires you, a tech-savvy person. Your task is to build a ML model based on properties of wine to predict their cost in future.
 
