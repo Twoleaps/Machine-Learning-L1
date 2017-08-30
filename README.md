@@ -32,12 +32,19 @@ or the mentee's preferences.
 **Problem statement:** Mr Dough is the owner of a wine shop and wants to smartly manage his inventory by allocating the right amount of funds.  To do so he needs to know prices of wines in future. As Mr Dough doesn't know how to solve this problem, instead he hires you, a tech-savvy person. Your task is to build a ML model based on properties of wine to predict their cost in future.
 
 ### What will you be learning:
-> Fundamentals of Machine Learing along with hands-on programming.
+
+> Fundamentals of Machine Learing along with hands-on programming
+
 > Loading and processing data
+
 > Input Data exploration and visualization
+
 > Data trasnformation suitable for algorithm
+
 > Choosing the correct algorithm for your problem
+
 > Performance Measurement of your algorithm
+
 
 
 ### Introducing the project with all of its essential elements 
