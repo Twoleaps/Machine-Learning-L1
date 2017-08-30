@@ -35,10 +35,11 @@ or the mentee's preferences.
 
 ### Introducing the project with all of its essential elements 
 - [ ] Introduction     
-    - [ ] Essentials of Prediction
-    - [ ] Understading Problem using Data
-    - [ ] What is Penalized Linear Models?
-    - [ ] Why use Penalized Linear Models?
+    - [ ] What is Machine Learning?
+    - [ ] Importance of Machine Learning
+    - [ ] Introduction to Supervised Learning
+    - [ ] Introduction to Unsupservised Learning
+    - [ ] Picking the Right Algorithm
 
 
 ### Data loading and processing
@@ -66,6 +67,10 @@ or the mentee's preferences.
     
 ### Implementation of mini project
 - [ ] Making the Predictive Model for Wine Taste Prediction
+    - [ ] Essentials of Prediction
+    - [ ] Understading Problem using Data
+    - [ ] What is Penalized Linear Models?
+    - [ ] Why use Penalized Linear Models?
     - [ ] Data Loading and Wrangling
     - [ ] Data Cleaning and Processing
     - [ ] Data Visualization
