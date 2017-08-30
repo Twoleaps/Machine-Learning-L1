@@ -1,9 +1,10 @@
 # Machine-Learning-L1
 Mentorship Repository for Machine Learning Type = Level 1
+> [www.twoleaps.com](www.twoleaps.com)
 
 ## Repository Navigation Guide
-* Mentor needs to fork this repository
-* Mentee needs to joins as a contributor
+* Mentee needs to fork this repository.
+* Mentor needs to join as a contributor.
 
 This template is designed to assist Twoleaps mentorship program. The template consists of two 
 major sections: Goals and Progress tracker. Mentors and mentee should add goals prior to start of 
@@ -25,8 +26,10 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
 or the mentee's preferences.
 
-## Main Goal
+## Micro project
 > Implementing Penalized Linear Models to Predict Wine Taste
+
+**Problem statement:** Mr Dough is the owner of a wine shop and wants to smartly manage his inventory by allocating the right amount of funds.  To do so he needs to know prices of wines in future. As Mr Dough doesn't know how to solve this problem, instead he hires you, a tech-savvy person. Your task is to build a ML model based on properties of wine to predict their cost in future.
 
 
 
@@ -38,7 +41,7 @@ or the mentee's preferences.
     - [ ] Why use Penalized Linear Models?
 
 
-### This module enables you to load and process data of different formats using Python and its libraries
+### Data loading and processing
 - [ ] Basics of Data I/O and Processing 
     - [ ] General Overview of Python
     - [ ] Reading and Writing Text Files in Python
@@ -46,7 +49,7 @@ or the mentee's preferences.
     - [ ] Working with JSON Data
     
     
-### This module walks you through data wrangling and aggregation which enables you to make your data set usable for algorithmic implementation
+### Data wrangling and aggregation
 - [ ] Data Wrangling and Data Aggregation
     - [ ] Combining Data Sets
     - [ ] Reshaping Data Sets
@@ -55,13 +58,13 @@ or the mentee's preferences.
     - [ ] Data Aggregation
     - [ ] Group-wise Operatons on Data Sets
        
-### This module discusses data plotting and visualisation, a very important concept in data processing and analysis.
+### Data plotting and visualisation
 - [ ] Data Visualisation
     - [ ] Introduction to Matplotlib Library's API (Python's Plotting Library)
     - [ ] Making Plots and Figures using Matplotlib
     - [ ] Using Visualisatoin to draw inference
     
-### This is the final project where above mentioned modules will be used to make the predictive model
+### Implementation of mini project
 - [ ] Making the Predictive Model for Wine Taste Prediction
     - [ ] Data Loading and Wrangling
     - [ ] Data Cleaning and Processing
