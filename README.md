@@ -37,13 +37,13 @@ or the mentee's preferences.
 
 > Loading and processing data
 
-> Input Data exploration and visualization
+> Input data exploration and visualization
 
 > Data trasnformation suitable for algorithm
 
 > Choosing the correct algorithm for your problem
 
-> Performance Measurement of your algorithm
+> Performance measurement of your algorithm
 
 
 
