@@ -1,4 +1,4 @@
-### You can go through these books/videos/blogs in any sequence you want. At the end you'll have to record your response in task.md file
+You can go through these books/videos/blogs in any sequence you want. At the end, you'll have to record your response in task.md file
 
 
 
