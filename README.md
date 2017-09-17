@@ -96,4 +96,4 @@ Track weekly progress in this section according to above mentioned goals.
 
 - ### Introduction
     - [x] Task1
-    - [x] Task2
+    - [ ] Task2
