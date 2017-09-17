@@ -95,8 +95,6 @@ or the mentee's preferences.
 Track weekly progress in this section according to above mentioned goals.
 
 - ### Week 1 
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
-    - [ ] Task 4
-    - [ ] Task 5
+    - [ ] 
+    - [*] What is Machine Learning?
+    - [*] Importance of Machine Learning
