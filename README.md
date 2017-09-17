@@ -96,5 +96,5 @@ Track weekly progress in this section according to above mentioned goals.
 
 - ### Week 1 
     - [ ] 
-    - [*] What is Machine Learning?
-    - [*] Importance of Machine Learning
+    - [x] What is Machine Learning?
+    - [x] Importance of Machine Learning
