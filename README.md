@@ -49,8 +49,8 @@ or the mentee's preferences.
 
 ### Introducing the project with all of its essential elements 
 - [ ] Introduction     
-    - [ ] What is Machine Learning?
-    - [ ] Importance of Machine Learning
+    - [x] What is Machine Learning?
+    - [x] Importance of Machine Learning
     - [ ] Introduction to Supervised Learning
     - [ ] Introduction to Unsupservised Learning
     - [ ] Picking the Right Algorithm
@@ -94,6 +94,6 @@ or the mentee's preferences.
 
 Track weekly progress in this section according to above mentioned goals.
 
-- ### Week 1 
-    - [x] What is Machine Learning?
-    - [x] Importance of Machine Learning
+- ### Introduction
+    - [x] Task1
+    - [x] Task2
