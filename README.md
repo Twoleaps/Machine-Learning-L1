@@ -47,37 +47,24 @@ or the mentee's preferences.
 
 
 
-### Introducing the project with all of its essential elements 
-- [ ] Introduction     
-    - [x] What is Machine Learning?
-    - [x] Importance of Machine Learning
-    - [ ] Introduction to Supervised Learning
-    - [ ] Introduction to Unsupservised Learning
-    - [ ] Picking the Right Algorithm
+### Introducing the project with all of its essential elements
+- [x] What is Machine Learning?
+- [x] Importance of Machine Learning
+- [x] Introduction to Supervised Learning
+- [x] Introduction to Unsupservised Learning
 
+
+### Python Primer
+- [x] Python syntax introduction
+- [ ] Assignment on Python Classes
 
 ### Data loading and processing
-- [ ] Basics of Data I/O and Processing 
-    - [ ] General Overview of Python
-    - [ ] Reading and Writing Text Files in Python
-    - [ ] Working with Delimited Formats and MS Excel Files
-    - [ ] Working with JSON Data
-    
-    
-### Data wrangling and aggregation
-- [ ] Data Wrangling and Data Aggregation
-    - [ ] Combining Data Sets
-    - [ ] Reshaping Data Sets
-    - [ ] Transforming Data Sets
-    - [ ] String Related Opration on Data Sets
-    - [ ] Data Aggregation
-    - [ ] Group-wise Operatons on Data Sets
-       
-### Data plotting and visualisation
-- [ ] Data Visualisation
-    - [ ] Introduction to Matplotlib Library's API (Python's Plotting Library)
-    - [ ] Making Plots and Figures using Matplotlib
-    - [ ] Using Visualisation to draw inference
+- [ ] Reading and Writing Text Files in Python
+- [ ] Working with Delimited Formats and MS Excel Files
+- [ ] Combining, Reshaping and Transforming Data Sets
+- [ ] String Related Opration on Data Sets
+- [ ] Group-wise Operatons on Data Sets
+- [ ] Data Visulatization using Matplotlib
     
 ### Implementation of mini project
 - [ ] Making the Predictive Model for Wine Taste Prediction
@@ -90,10 +77,3 @@ or the mentee's preferences.
     - [ ] Data Visualization
     - [ ] Final Algorithmic Implementation
   
-## Progress Tracking
-
-Track weekly progress in this section according to above mentioned goals.
-
-- ### Introduction
-    - [x] Task1
-    - [ ] Task2
