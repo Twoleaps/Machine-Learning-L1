@@ -28,7 +28,7 @@ or the mentee's preferences.
 
 ## Path
 
-### Step1: Introduction to ML Fundamental Concepts
+### Step1:
 * Breaking the Ice
     * [Machine Learning Using Example](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
     * [Visual Guide to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
@@ -38,7 +38,8 @@ or the mentee's preferences.
     * [ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
     * [ML is More Fun](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
     
-* Basics 
+### Step2:
+* Prep Before the Launch
     * [Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
     * [Brief Introduction to Probability Statistics](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/)
     * [Basic Probability](https://www.youtube.com/watch?v=cM0f_03r_MY)
@@ -46,4 +47,31 @@ or the mentee's preferences.
     * [Basic Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
     * [Basic Numpy](http://cs231n.github.io/python-numpy-tutorial/#numpy)
     * [Environment Setup (Anaconda, ipython, jupyter notebook)](http://jupyter.readthedocs.io/en/latest/install.html)
+    * [Introduction to Scikit](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+    * [Introduction to Matplotlib](https://matplotlib.org/tutorials/index.html)
+    
+### Step3:
+* Mini Project 1
+   * Defining Problem Statement
+   * Data Preparation
+      * Data Cleaning
+      * Data Transformation
+   * Data Visualization (Pretty Plots)
+   * Mathematical Modelling
+   * Mathematics to Programm
+   * Model Checking/Feedbak
+  
+### Step4:
+* Project Presentation
+   * Blog
+   * Well documented codebase
+   * Application Development
+   
+ ### Step5:
+* Major Project
+   * Repeat 3
+   * Repeat 4
+   
+### Step6:
+* Future Scope 
     
