@@ -26,77 +26,24 @@ Regular feedback is highly encouraged. Feedbacks should inspire improvement. Men
 The objectives of the mentorship should be listed down here. They can be customized over time by the mentor
 or the mentee's preferences.
 
-## Micro project
-> Implementing Penalized Linear Models to Predict Wine Cost
+## Path
 
-**Problem statement:** Mr Dough is the owner of a wine shop and wants to smartly manage his inventory by allocating the right amount of funds.  To do so he needs to know prices of wines in future. As Mr Dough doesn't know how to solve this problem, instead he hires you, a tech-savvy person. Your task is to build a ML model based on properties of wine to predict their cost in future.
-
-### What will you be learning:
-
-> Fundamentals of Machine Learing along with hands-on programming
-
-> Loading and processing data
-
-> Input data exploration and visualization
-
-> Data trasnformation suitable for algorithm
-
-> Choosing the correct algorithm for your problem
-
-> Performance measurement of your algorithm
-
-
-
-### Introducing the project with all of its essential elements 
-- [ ] Introduction     
-    - [ ] What is Machine Learning?
-    - [ ] Importance of Machine Learning
-    - [ ] Introduction to Supervised Learning
-    - [ ] Introduction to Unsupservised Learning
-    - [ ] Picking the Right Algorithm
-
-
-### Data loading and processing
-- [ ] Basics of Data I/O and Processing 
-    - [ ] General Overview of Python
-    - [ ] Reading and Writing Text Files in Python
-    - [ ] Working with Delimited Formats and MS Excel Files
-    - [ ] Working with JSON Data
+### Step1: Introduction to ML Fundamental Concepts
+* Breaking the Ice
+    * [Machine Learning Using Example](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+    * [Visual Guide to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+    * [Introduction to Machine Learning for Developers](https://blog.algorithmia.com/introduction-machine-learning-developers/)
+    * [Video Explaining Machine Learning](https://www.youtube.com/watch?v=elojMnjn4kk)
+    * [Why Machine Learning is the Future](https://www.youtube.com/watch?v=5cFUZ03Sbhc)
+    * [ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+    * [ML is More Fun](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
     
+* Basics 
+    * [Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+    * [Brief Introduction to Probability Statistics](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/)
+    * [Basic Probability](https://www.youtube.com/watch?v=cM0f_03r_MY)
+    * [Learn Python](https://www.python.org/)
+    * [Basic Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+    * [Basic Numpy](http://cs231n.github.io/python-numpy-tutorial/#numpy)
+    * [Environment Setup (Anaconda, ipython, jupyter notebook)](http://jupyter.readthedocs.io/en/latest/install.html)
     
-### Data wrangling and aggregation
-- [ ] Data Wrangling and Data Aggregation
-    - [ ] Combining Data Sets
-    - [ ] Reshaping Data Sets
-    - [ ] Transforming Data Sets
-    - [ ] String Related Opration on Data Sets
-    - [ ] Data Aggregation
-    - [ ] Group-wise Operatons on Data Sets
-       
-### Data plotting and visualisation
-- [ ] Data Visualisation
-    - [ ] Introduction to Matplotlib Library's API (Python's Plotting Library)
-    - [ ] Making Plots and Figures using Matplotlib
-    - [ ] Using Visualisation to draw inference
-    
-### Implementation of mini project
-- [ ] Making the Predictive Model for Wine Taste Prediction
-    - [ ] Essentials of Prediction
-    - [ ] Understading Problem using Data
-    - [ ] What is Penalized Linear Models?
-    - [ ] Why use Penalized Linear Models?
-    - [ ] Data Loading and Wrangling
-    - [ ] Data Cleaning and Processing
-    - [ ] Data Visualization
-    - [ ] Final Algorithmic Implementation
-  
-## Progress Tracking
-
-Track weekly progress in this section according to above mentioned goals.
-
-- ### Week 1 
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
-    - [ ] Task 4
-    - [ ] Task 5
