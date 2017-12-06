@@ -28,50 +28,56 @@ or the mentee's preferences.
 
 ## Path
 
-### Step1:
-* Breaking the Ice
-    * [Machine Learning Using Example](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
-    * [Visual Guide to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-    * [Introduction to Machine Learning for Developers](https://blog.algorithmia.com/introduction-machine-learning-developers/)
-    * [Video Explaining Machine Learning](https://www.youtube.com/watch?v=elojMnjn4kk)
-    * [Why Machine Learning is the Future](https://www.youtube.com/watch?v=5cFUZ03Sbhc)
-    * [ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
-    * [ML is More Fun](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
+### Phase 1
+- [ ] Breaking the Ice
+    - [ ] [Machine Learning Using Example](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+    - [ ] [Visual Guide to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+    - [ ] [Introduction to Machine Learning for Developers](https://blog.algorithmia.com/introduction-machine-learning-developers/)
+    - [ ] [Video Explaining Machine Learning](https://www.youtube.com/watch?v=elojMnjn4kk)
+    - [ ] [Why Machine Learning is the Future](https://www.youtube.com/watch?v=5cFUZ03Sbhc)
+    - [ ] [ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+    - [ ] [ML is More Fun](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
     
-### Step2:
-* Prep Before the Launch
-    * [Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
-    * [Brief Introduction to Probability Statistics](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/)
-    * [Basic Probability](https://www.youtube.com/watch?v=cM0f_03r_MY)
-    * [Learn Python](https://www.python.org/)
-    * [Basic Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
-    * [Basic Numpy](http://cs231n.github.io/python-numpy-tutorial/#numpy)
-    * [Environment Setup (Anaconda, ipython, jupyter notebook)](http://jupyter.readthedocs.io/en/latest/install.html)
-    * [Introduction to Scikit](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
-    * [Introduction to Matplotlib](https://matplotlib.org/tutorials/index.html)
-    
-### Step3:
-* Mini Project 1
-   * Defining Problem Statement
-   * Data Preparation
-      * Data Cleaning
-      * Data Transformation
-   * Data Visualization (Pretty Plots)
-   * Mathematical Modelling
-   * Mathematics to Programm
-   * Model Checking/Feedbak
+### Phase 2
+- [ ] Prep Before the Launch
+    - [ ] [Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+    - [ ] [Brief Introduction to Probability Statistics](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/)
+    - [ ] [Basic Probability](https://www.youtube.com/watch?v=cM0f_03r_MY)
+    - [ ] [Learn Python](https://www.python.org/)
+    - [ ] [Basic Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+    - [ ] [Basic Numpy](http://cs231n.github.io/python-numpy-tutorial/#numpy)
+    - [ ] [Environment Setup (Anaconda, ipython, jupyter notebook)](http://jupyter.readthedocs.io/en/latest/install.html)
+    - [ ] [Introduction to Scikit](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+    - [ ] [Introduction to Matplotlib](https://matplotlib.org/tutorials/index.html)
+
+### Phase 3 
+- [ ] Mini Project 1
+   - [ ] Defining Problem Statement
+   - [ ] Data Preparation
+      - [ ] Data Cleaning
+      - [ ] Data Transformation
+   - [ ] Data Visualization (Pretty Plots)
+   - [ ] Mathematical Modelling
+   - [ ] Mathematics to Programm
+   - [ ] Model Checking/Feedbak
   
-### Step4:
-* Project Presentation
-   * Blog
-   * Well documented codebase
-   * Application Development
-   
- ### Step5:
-* Major Project
-   * Repeat 3
-   * Repeat 4
-   
-### Step6:
-* Future Scope 
-    
+- [ ] Project Presentation
+   - [ ] Blog
+   - [ ] Well documented codebase
+   - [ ] Application Development
+
+### Phase 4
+- [ ] Major Project
+   - [ ] Repeat Phase 3
+
+### Phase 5
+- [ ] Future Scope 
+   - [ ] Deep learning
+   - [ ] Different fields in ML
+       - [ ] Natural Language Processing
+       - [ ] Image recognition
+       - [ ] Signal processing
+   - [ ] Where to go next?
+       - [ ] ML Research
+       - [ ] Kaggle
+
