@@ -52,19 +52,29 @@ or the mentee's preferences.
 
 ### Phase 3 
 - [ ] Mini Project 1
-   - [ ] Defining Problem Statement
+   - [ ] Defining Problem Statement [[Predicting Relative Performance of CPU](http://archive.ics.uci.edu/ml/datasets/Computer+Hardware)]
    - [ ] Data Preparation
-      - [ ] Data Cleaning
-      - [ ] Data Transformation
-   - [ ] Data Visualization (Pretty Plots)
+      - [ ] Data Cleaning (removing missing, redundant data, taking care of feature units etc)
+      - [ ] Data Transformation (making it suitable for regression analysis)
+   - [ ] Data Visualization (Pretty Plots) (variation of CPU performance wrt different attributes/covariates)
    - [ ] Mathematical Modelling
+        - [ ] [Linear Regression Introduction](http://www.gs.washington.edu/academics/courses/akey/56008/lecture/lecture9.pdf)
+        - [ ] [Multiple Linear Regression](http://www.stat.purdue.edu/~xuanyaoh/stat350/xyApr9Lec27.pdf)
+        - [ ] [Multiple Regression in Python/Scikit](http://www.scipy-lectures.org/packages/statistics/auto_examples/plot_regression_3d.html)
+        - [ ] [Another example in python](https://stackoverflow.com/questions/11479064/multiple-linear-regression-in-python)
+        - [ ] Write a brief synopsis of mathematical analysis
    - [ ] Mathematics to Programm
+        - [ ] Write regression analysis programm 
+        - [ ] [Using categorical values in Regression]( [Link1](https://stackoverflow.com/questions/34007308/linear-regression-analysis-with-string-categorical-features-variables) [Link2](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) [Link3](https://stats.stackexchange.com/questions/240594/how-to-do-regression-when-there-is-a-mix-of-numerical-and-non-numerical-predicto) )
    - [ ] Model Checking/Feedbak
+        - [ ] Calculate recision, recall
+        - [ ] Analyze and select the most effective covariates (optional)
   
 - [ ] Project Presentation
    - [ ] Blog
    - [ ] Well documented codebase
    - [ ] Application Development
+
 
 ### Phase 4
 - [ ] Major Project
